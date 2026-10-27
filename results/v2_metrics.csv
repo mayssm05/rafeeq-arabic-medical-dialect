@@ -1,0 +1,6 @@
+﻿Metric,V2
+BLEU,68.44
+ROUGE-L,0.7741
+chrF,79.41
+Token F1,0.7768
+Exact Match,0.4898

@@ -1,0 +1,12 @@
+# Keep model and local data artifacts out of the public repository.
+/data/
+/checkpoints/
+/artifacts/
+.env
+.env.*
+.ipynb_checkpoints/
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+*.bin
